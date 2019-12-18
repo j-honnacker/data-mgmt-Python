@@ -13,6 +13,21 @@
 
 <tbody>
 
+<!-- ReadCSV_Basics.ipynb -->
+<tr>
+
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-mgmt-Python/blob/master/Python-techniques/ReadCSV_Basics.ipynb">
+ReadCSV_Basics.ipynb
+</a></code>
+</td>
+
+<td align="left">
+discusses options to read in CSV files
+</td>
+</tr>
+
+
 <!-- RegEx_Find-and-Replace-Dates.ipynb -->
 <tr>
 
