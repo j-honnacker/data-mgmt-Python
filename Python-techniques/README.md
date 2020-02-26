@@ -58,6 +58,22 @@ demonstrates how to read instream data which can be used to simulate an external
 
 </tr>
 
+
+<!-- Tables-Joins.ipynb --> 
+<tr>
+
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-mgmt-Python/blob/master/Python-techniques/Tables-Joins.ipynb">
+Tables&#8209;Joins.ipynb
+</a></code>
+</td>
+
+<td align="left">
+shows how to perform joins on DataFrames
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
