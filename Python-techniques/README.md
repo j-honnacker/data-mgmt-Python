@@ -63,8 +63,8 @@ demonstrates how to read instream data which can be used to simulate an external
 <tr>
 
 <td align="left">
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-mgmt-Python/blob/master/Python-techniques/Tables-Joins.ipynb">
-Tables&#8209;Joins.ipynb
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-mgmt-Python/blob/master/Python-techniques/Tables_Joins.ipynb">
+Tables_Joins.ipynb
 </a></code>
 </td>
 
