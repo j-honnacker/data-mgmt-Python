@@ -74,6 +74,22 @@ shows how to perform joins on DataFrames
 
 </tr>
 
+
+<!-- Tables-Restructuring.ipynb --> 
+<tr>
+
+<td align="left">
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/j-honnacker/data-mgmt-Python/blob/master/Python-techniques/Tables_Restructuring.ipynb">
+Tables_Restructuring.ipynb
+</a></code>
+</td>
+
+<td align="left">
+contains examples on how to transpose columns into rows, and vice versa
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
